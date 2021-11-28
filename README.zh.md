@@ -1,4 +1,4 @@
-# hook-ajax
+# ajax
 简体中文 | [English](https://github.com/lindengxu68/hook-ajax/)
 ## 安装
 **（这个目前只适用于浏览器）**  
